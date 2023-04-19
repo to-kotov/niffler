@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="niffler.test.SpendsWebTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-04-19T14:40:58" hostname="MacBook-Pro-Vasilij.local" time="3.232">
+<testsuite name="niffler.test.SpendsWebTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-04-19T14:44:59" hostname="MacBook-Pro-Vasilij.local" time="3.873">
   <properties/>
-  <testcase name="spendShouldBeDeletedByActionInTable(SpendJson)" classname="niffler.test.SpendsWebTest" time="3.232"/>
+  <testcase name="spendShouldBeDeletedByActionInTable(SpendJson)" classname="niffler.test.SpendsWebTest" time="3.873"/>
   <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 12975
+  <system-err><![CDATA[Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 16854
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-апр. 19, 2023 5:41:00 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+апр. 19, 2023 5:45:01 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 112, so returning the closest version found: 111
 ]]></system-err>
 </testsuite>

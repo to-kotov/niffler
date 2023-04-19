@@ -1,3 +1,8 @@
+Для первого задания нужно создать пользователя:
+login - tokotov
+paswword - 123456
+
+
 ## **Технологии, использованные в Niffler**
 
 - [Spring Authorization Server](https://spring.io/projects/spring-authorization-server)
